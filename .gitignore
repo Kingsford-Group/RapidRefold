@@ -1,0 +1,7 @@
+build/
+*.o
+*.a
+*.bin
+*.cache
+*.csv
+.DS_Store
